@@ -44,3 +44,29 @@ For collaborators：微小贡献请直接从速check in，中量/大量贡献请
 [第二十三章 瑾瑜](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E7%AB%A0%EF%BC%9A%E7%91%BE%E7%91%9C.md)
 
 [第二十四章：平行宇宙](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0%EF%BC%9A%E5%B9%B3%E8%A1%8C%E5%AE%87%E5%AE%99.md)
+
+[第二十五章：宿命](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%BA%94%E7%AB%A0%EF%BC%9A%E5%AE%BF%E5%91%BD.md)
+
+[第二十六章：约会](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AD%E7%AB%A0%EF%BC%9A%E7%BA%A6%E4%BC%9A.md)
+
+[第二十七章：赴约](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%83%E7%AB%A0%EF%BC%9A%E8%B5%B4%E7%BA%A6.md)
+
+[第二十八章：私心](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%85%AB%E7%AB%A0%EF%BC%9A%E7%A7%81%E5%BF%83.md)
+
+[第二十九章：献血](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B9%9D%E7%AB%A0%EF%BC%9A%E7%8C%AE%E8%A1%80.md)
+
+[第三十章：意外](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E7%AB%A0%EF%BC%9A%E6%84%8F%E5%A4%96.md)
+
+[第三十一章：永别](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%80%E7%AB%A0%EF%BC%9A%E6%B0%B8%E5%88%AB.md)
+
+[第三十二章：摊牌](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%8C%E7%AB%A0%EF%BC%9A%E6%91%8A%E7%89%8C.md)
+
+[第三十三章：转机](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%B8%89%E7%AB%A0%EF%BC%9A%E8%BD%AC%E6%9C%BA.md)
+
+[第三十四章：启程](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E5%9B%9B%E7%AB%A0%EF%BC%9A%E5%90%AF%E7%A8%8B.md)
+
+[第三十五章：梧桐大树](https://github.com/yidingcn/novel/blob/master/%E7%AC%AC%E4%B8%89%E5%8D%81%E4%BA%94%E7%AB%A0%EF%BC%9A%E6%A2%A7%E6%A1%90%E6%A0%91%E5%A4%A7%E8%A1%97.md)
+
+[第三十一章：永别]()
+
+[第三十一章：永别]()
